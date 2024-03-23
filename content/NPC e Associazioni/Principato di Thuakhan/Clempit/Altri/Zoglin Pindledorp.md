@@ -1,6 +1,9 @@
 **Razza**: Gobbo (si, non è un typo)
+
 **Classe**: Comuneer (no, non è un errore)
+
 **Occupazione**: Ubriacone alla taverna
+
 **Allineamento**: Caotico neutrale (solo perché l’allineamento non può essere caotico caotico)
 
 Zoglin Pindledorp è un gobbo che sembra non avere una via di mezzo. Non è solo debole e insensato, ma è praticamente incapace in ogni aspetto della vita avventurosa. Ha una postura curva, una camminata traballante e una tendenza a parlare con se stesso in una lingua incomprensibile. La sua abilità nel combattimento è nulla e preferisce evitare il conflitto in ogni circostanza, spesso cercando di nascondersi dietro al primo cespuglio che trova.

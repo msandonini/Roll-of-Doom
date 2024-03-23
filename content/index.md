@@ -1,6 +1,81 @@
 ---
-title: Welcome to Quartz
+title: Roll of Doom
 ---
+>Ma che bravi ragazzi
+>— Lee
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- World Building
+	- [[Poliland]]
+		- Nazioni
+			- [[Principato di Thuakhan]]
+				- Città
+					- [[Clempit]]
+						- [[Locanda del Tetto Splendente]]
+				- Eventi
+					- [[Festival delle Luci]]
+					- [[Mercato reale di Primavera]]
+			- [[Protettorato di Valacchia]]
+				- [[World Building/Poliland/Nazioni/Protettorato di Valacchia/Accademia della Bacchetta Argentata]]
+		- [[Curiosità]]
+		- [[Usi e costumi]]
+	- [[Talushta]]
+- Sessioni
+	- [[00 - Una bella giornata]]
+	- [[01 - Intrighi e passioni]]
+	- [[02 - Topi e sangue]]
+- Piani di esistenza
+	- [Piano materiale](https://forgottenrealms.fandom.com/wiki/Prime_Material_plane)
+	- [Piano astrale](https://forgottenrealms.fandom.com/wiki/Astral_Plane)
+	- [Undertake](https://forgottenrealms.fandom.com/wiki/Underdark)
+		- Carceri
+			- [[Tarthis]]
+- PG
+	- [[Charios]]
+	- [[Elanor]]
+	- [[Eymeria]]
+	- [[Gildor]]
+	- [[Lee]]
+	- [[Nezu]]
+- NPC/Associazioni
+	- [[Principato di Thuakhan]]
+		- [[Clempit]]
+			- [[Gilda della Lama Oscura]]
+			- Guardie cittadine
+				- [[Glar Tivor]]
+				- [[Todd Gerard]]
+			- Liberi professionisti
+				- [[Clod]]
+				- [[Lyn Saar]]
+				- [[Zog]]
+			- Nobili
+				- [[Loyd & Krystal]]
+			- Uomini di fede
+				- Monaci della Via Bianca
+					- [[Luis]]
+				- Paladini di Pelor
+					- [[Mark Stepvar]]
+			- Altri
+				- [[Delyandre]]
+				- [[Le Barbe Stronze]]
+				- [[Rose]]
+				- [[Ruby & Smery]]
+				- [[Zoglin Pindledorp]]
+	- [[Protettorato di Valacchia]]
+		- Accademia della Bacchetta Argentata
+			- [[Riven Valtor]]
+		- Monaci
+			- [[Il Grigio]]
+	- Personaggi famosi
+		- [[Katya Poppa]]
+- Fedi e Divinità
+	- Divinità
+		- [Pelor](https://forgottenrealms.fandom.com/wiki/Pelor)
+		- [Talona](https://forgottenrealms.fandom.com/wiki/Talona)
+		- [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr)
+	- Ordini
+		- Monaci
+			- [[Ordine del Vuoto Interiore]]
+			- [[Ordine della Via Bianca]]
+		- Paladini
+			- [[Ordine di Pelor]]
+			- [[Ordine di Tyr]]
