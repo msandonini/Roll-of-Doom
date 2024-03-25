@@ -5,40 +5,23 @@ title: Indice
 >
 >— Lee
 
-- World Building
-	- [[Poliland]]
-		- Nazioni
-			- [[Principato di Thuakhan]]
-				- Città
-					- [[Clempit]]
-						- [[Locanda del Tetto Splendente]]
-				- Eventi
-					- [[Festival delle Luci]]
-					- [[Mercato reale di Primavera]]
-			- [[Protettorato di Valacchia]]
-				- [[World Building/Poliland/Nazioni/Protettorato di Valacchia/Accademia della Bacchetta Argentata]]
-		- [[Curiosità]]
-		- [[Usi e costumi]]
-	- [[Talushta]]
-- Sessioni
-	- [[00 - Una bella giornata]]
-	- [[01 - Intrighi e passioni]]
-	- [[02 - Topi e sangue]]
+- [[Mondo/]]
+- [[Sessioni/]]
 - Piani di esistenza
 	- [Piano materiale](https://forgottenrealms.fandom.com/wiki/Prime_Material_plane)
 	- [Piano astrale](https://forgottenrealms.fandom.com/wiki/Astral_Plane)
 	- [Undertake](https://forgottenrealms.fandom.com/wiki/Underdark)
 		- Carceri
 			- [[Tarthis]]
-- PG
-	- [[Charios]]
+- [[PG/]]
+%% 	- [[Charios]]
 	- [[Elanor]]
 	- [[Eymeria]]
 	- [[Gildor]]
 	- [[Lee]]
-	- [[Nezu]]
-- NPC/Associazioni
-	- [[Principato di Thuakhan]]
+	- [[Nezu]] %%
+- [[NPC e Associazioni/]]
+%% 	[](Principato%20di%20Thuakhan.md)]]
 		- [[Clempit]]
 			- [[Gilda della Lama Oscura]]
 			- Guardie cittadine
@@ -67,16 +50,16 @@ title: Indice
 		- Monaci
 			- [[Il Grigio]]
 	- Personaggi famosi
-		- [[Katya Poppa]]
+		- [[Katya Poppa]] %%
 - Fedi e Divinità
 	- Divinità
 		- [Pelor](https://forgottenrealms.fandom.com/wiki/Pelor)
 		- [Talona](https://forgottenrealms.fandom.com/wiki/Talona)
 		- [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr)
-	- Ordini
-		- Monaci
+	- [[Ordini/]]
+%% 		- Monaci
 			- [[Ordine del Vuoto Interiore]]
 			- [[Ordine della Via Bianca]]
 		- Paladini
 			- [[Ordine di Pelor]]
-			- [[Ordine di Tyr]]
+			- [[Ordine di Tyr]] %%

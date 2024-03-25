@@ -14,7 +14,7 @@ Provando a sfilare il cassetto in questione nota che non esce dai carrelli, ma i
 
 All’interno della lettera è inoltre posto un simbolo a forma di triangolo rovesciato contenente 3 gocce. [[Elanor]] non lo riconosce, mentre [[Gildor]], pur non sapendo cosa significhi, intuisce che possa essere un simbolo collegato alla numerologia.
 
-## Giorno dopo il [[festival delle luci]]
+## Giorno dopo il [[Festival delle Luci]]
 
 Nel mentre si è fatto giorno, e [[Gildor]] si sta prendendo il suo pagamento anticipato, tra cui delle polveri che porge a [[Elanor]].
 
@@ -44,6 +44,6 @@ Usciti dal tempio è ormai arrivato il pomeriggio inoltrato (circa 17:00). Andan
 
 Passando di fronte alla casa di [[Delyandre]] si può vedere la bimba che cucina, e Lee nota che tutta la casa è impregnata di magia bianca, mentre [[Elanor]] nota che le guardie sono totalmente tranquille, e le sente dire che [[Glar Tivor|Tivor]] ha dato l’ordine di non intervenire e di non ispezionare la casa.
 
-[[Lee]] nota che la casa di [[Delyandre]] è incantata, e quando [[Eymeria]] si ferma un attimo a parlare con lei, essa le rivela che suo marito era uno dei consiglieri dell'[[World Building/Poliland/Nazioni/Protettorato di Valacchia/Accademia della Bacchetta Argentata]], la più importante accademia magica del continente, situata nel [[Protettorato di Valacchia]].
+[[Lee]] nota che la casa di [[Delyandre]] è incantata, e quando [[Eymeria]] si ferma un attimo a parlare con lei, essa le rivela che suo marito era uno dei consiglieri dell'[[Accademia della Bacchetta Argentata]], la più importante accademia magica del continente, situata nel [[Protettorato di Valacchia]].
 
 Nel mentre che [[Eymeria]] parla con [[Delyandre]], non appena quest’ultima nomina il fatto che deve mettere un po’ a posto, [[Lee]] e [[Charios]] sono corsi rispettivamente a sistemare la struttura della casa e imbiancare le nuove pareti costruite, nel mentre che vengono ispirati dalla canzone di [[Eymeria]], che ha iniziato ha suonare una volta finito di chiacchierare con [[Delyandre]]. Nel mentre [[Gildor]] ha cercato se trovava qualcosa in giro per la casa, e una volta giunto in cucina, notando che la figlia di [[Delyandre]] stava cucinando, si è messo ad aiutarla. Intanto, [[Elanor]] si è seduta in salotto, e realizza che dal momento che la magia della casa è ancora intatta, vuol dire che il marito di [[Delyandre]], è ancora vivo.

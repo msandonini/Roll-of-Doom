@@ -1,6 +1,6 @@
-## Giorno del [[mercato reale di Primavera]]
+## Giorno del [[Mercato reale di Primavera]]
 
-È il giorno del [[mercato reale di primavera]], e i vari personaggi sono in giro per la città. 
+È il giorno del [[Mercato reale di Primavera]], e i vari personaggi sono in giro per la città. 
 
 [[Gildor]] si aggira nella parte del mercato che si occupa di gioielli, in cerca di una preda da poter derubare; in questo caso le 2 malcapitate sono 2 anziane signore chiamate [[Ruby & Smery|Ruby e Smery]], che sono state rimorchiate al punto da svenire in una pozzanghera di liquido non meglio specificato. Una volta aver fatto i suoi “acquisti [[Usi e costumi#Commercio|Vinted]]”, per evitare problemi con le due signore svenute, si è diretto alla locanda da loro indicata per poter pranzare e controllare meglio il malloppo.
 

@@ -17,7 +17,7 @@ Nel mentre, [[Lee]] ed [[Eymeria]] individuano 2 paladini che stanno prendendo d
 
 Dopo un po’ di chiacchiere il più anziano ([[Rob]]), che è il mentore dell’altro, rivela di essere uno dei diretti sottoposti del generale [[Glar Tivor|Tivor]]. Rivela inoltre che nonostante una volta [[Glar Tivor|Tivor]] fosse un uomo di onore, sembra che ultimamente abbia iniziato a ordinare di non intervenire per placare gli ultimi disordini, e che si comporti in maniera differente rispetto al passato.
 
-Rivela inoltre che il migliore amico di [[Glar Tivor|Tivor]] era [[Riven Valtor|Valtor]], il marito di [[Delyandre]], e quinto consigliere dell’[[World Building/Poliland/Nazioni/Protettorato di Valacchia/Accademia della Bacchetta Argentata|accademia]] del [[protettorato di Valacchia]]. Dopo un altro paio di chiacchiere [[Lee]] ed [[Eymeria]] salutano i 2 paladini, e si incamminano.
+Rivela inoltre che il migliore amico di [[Glar Tivor|Tivor]] era [[Riven Valtor|Valtor]], il marito di [[Delyandre]], e quinto consigliere dell’[[Accademia della Bacchetta Argentata|accademia]] del [[Protettorato di Valacchia]]. Dopo un altro paio di chiacchiere [[Lee]] ed [[Eymeria]] salutano i 2 paladini, e si incamminano.
 
 Mentre [[Eymeria]] sta mangiando una mela sgraffignata in giro, [[Lee]] vede [[Ruby & Smery|Ruby e Smery]] chiacchierare del fatto che sono dispiaciute per il fatto che il negozio in cui compravano gioielli sia bruciato. [[Lee]] ed [[Eymeria]] approcciano le 2 anziane per chiacchierare un po’ di [[Clod]], e le 2 signore parlano del fatto che [[Clod]] in gioventù era loro amico (con benefici) ed era socio di un’associazione di spedizione chiamata “[[Gilda della Lama Oscura]]”.
 
@@ -55,7 +55,7 @@ Una volta aggiornato, su domanda di [[Eymeria]], [[Zog]] spiega quali siano le s
 
 Su richiesta di consiglio, [[Zog]] propone diverse strade:
 
-- Dirigersi, per quanto difficile, all’[[World Building/Poliland/Nazioni/Protettorato di Valacchia/Accademia della Bacchetta Argentata|accademia]] per parlare con [[Nymarie]]
+- Dirigersi, per quanto difficile, all’[[Accademia della Bacchetta Argentata|accademia]] per parlare con [[Nymarie]]
 - Girare ancora in città per indagare e cercare di carpire ulteriori informazioni
 
 Il gruppo si divide: [[Lee]], [[Charios]], e [[Elanor]] vanno in biblioteca; [[Gildor]] ed [[Eymeria]] decidono di dirigersi a cercare informazioni nelle zone losche, e si dirigono dunque a un maneggio per raggiungere [[Mistfire]], la città vicina (dal momento che [[Clempit]] è la capitale e vi è una grossa presenza di guardie non vi si sono mai sviluppate zone eccessivamente losche).
