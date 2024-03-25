@@ -1,5 +1,5 @@
 ---
-title: Indice
+title: Roll of Doom - Indice
 ---
 >Ma che bravi ragazzi
 >
@@ -20,7 +20,7 @@ title: Indice
 	- [[Gildor]]
 	- [[Lee]]
 	- [[Nezu]] %%
-- [[NPC e Associazioni/]]
+- [[NPC-e-Associazioni/]]
 %% 	[](Principato%20di%20Thuakhan.md)]]
 		- [[Clempit]]
 			- [[Gilda della Lama Oscura]]
@@ -51,12 +51,9 @@ title: Indice
 			- [[Il Grigio]]
 	- Personaggi famosi
 		- [[Katya Poppa]] %%
-- Fedi e Divinità
-	- Divinità
-		- [Pelor](https://forgottenrealms.fandom.com/wiki/Pelor)
-		- [Talona](https://forgottenrealms.fandom.com/wiki/Talona)
-		- [Tyr](https://forgottenrealms.fandom.com/wiki/Tyr)
-	- [[Ordini/]]
+- [[Fedi-e-Divinità/]]
+%% 	- Divinità
+	- [[Ordini/]] %%
 %% 		- Monaci
 			- [[Ordine del Vuoto Interiore]]
 			- [[Ordine della Via Bianca]]

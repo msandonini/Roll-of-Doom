@@ -42,7 +42,7 @@ Una volta finito di mangiare, [[Eymeria]] esce per suonare, e intanto [[Elanor]]
 
 ## Terzo giorno dopo il festival delle luci
 
-Uscendo dal monastero il mattino dopo [[Charios]] ha trovato [[Lee]] durante l’allenamento, e si è unito a lui. Una volta tornati alla taverna [[Charios]] aggiorna il party sulle nuove scoperte, teorizzando sul perché la [[gilda della Lama Oscura]] possa aver attaccato la notte del festival delle luci.
+Uscendo dal monastero il mattino dopo [[Charios]] ha trovato [[Lee]] durante l’allenamento, e si è unito a lui. Una volta tornati alla taverna [[Charios]] aggiorna il party sulle nuove scoperte, teorizzando sul perché la [[Gilda della Lama Oscura]] possa aver attaccato la notte del festival delle luci.
 
 [[Zog]], sentendo di sfuggita, chiude la taverna e chiede preoccupato cosa stia succedendo.
 
